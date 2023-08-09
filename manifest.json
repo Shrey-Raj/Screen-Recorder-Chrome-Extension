@@ -1,0 +1,16 @@
+{
+    "name": "Screen/tab Recorder",
+    "description": "Simple Screen Recorder (Entire Screen or one specific tab) ",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action":{
+      "default_popup":"popup.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "icons":{
+      "128" : "icon.png"
+    },
+    "permissions": ["tabs", "activeTab", "desktopCapture"]
+  }
