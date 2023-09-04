@@ -1,4 +1,4 @@
-# Tab Recorder Chrome Extension
+# Screen Recorder Chrome Extension
 Tab Recorder is a Chrome extension that allows you to easily record your browser tab or screen activities. Whether you want to create tutorials, share presentations, or capture your gaming moments, Tab Recorder has got you covered.
 
 ## Installation
