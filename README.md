@@ -1,5 +1,6 @@
 # Screen Recorder Chrome Extension
-Tab Recorder is a Chrome extension that allows you to easily record your browser tab or screen activities. Whether you want to create tutorials, share presentations, or capture your gaming moments, Tab Recorder has got you covered.
+Tab Recorder is a Chrome extension that allows you to easily record your browser tab or screen activities. 
+
 
 ## Installation
  Follow these steps to install the Tab Recorder Chrome extension:
@@ -8,7 +9,7 @@ Clone this repository to your local machine using the following command:
 
 bash
 Copy code :
-git clone https://github.com/your-username/Screen-Recorder-Chrome-Extension.git
+git clone https://github.com/Shrey-Raj/Screen-Recorder-Chrome-Extension.git
 Open Google Chrome and go to chrome://extensions/.
 
 Enable "Developer mode" by toggling the switch in the top right corner of the page.
@@ -30,10 +31,7 @@ The recorded video will be saved to your computer in a format of your choice.
 
 ## Features
 Record browser tab or screen activities.
-Choose recording quality and format.
 Save recorded videos to your local machine.
-Feedback and Contributions
-If you encounter any issues or have suggestions for improving the Tab Recorder extension, feel free to open an issue. Contributions are also welcome – simply fork the repository and create a pull request.
 
 ## License
 This project is licensed under the MIT License.
